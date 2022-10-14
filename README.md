@@ -9,18 +9,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" width="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40px" width="30px" />
-          
-          
-          
 </div>
 
 <br>
-
-![Jenni GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnixx&show_icons=true&theme=radical)
-
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.jeyjey/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-rosa-25553b250/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnnixx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnnixx&layout=compact&langs_count=7&theme=radical"/>
 
 ![snake gif](https://github.com/jnnixx/jnnixx/blob/output/github-contribution-grid-snake.svg)
