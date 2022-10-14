@@ -10,9 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" width="30px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40px" width="30px" />
 </div>
-
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnnixx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnnixx&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jnnixx&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnnixx&layout=compact&langs_count=7&theme=radical"/>
 
 ![snake gif](https://github.com/jnnixx/jnnixx/blob/output/github-contribution-grid-snake.svg)
