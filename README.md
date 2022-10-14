@@ -1,4 +1,4 @@
-### Olá eu sou a Jenni! futura desenvolvedora web 😎
+### Hi, i'm jenni! 😎
 ##
 <div>
   <a href="https://github.com/jnnixx">
@@ -8,7 +8,7 @@
 
 ##
 
-### Eu estou aprendendo... 
+### 📚 I am learning...
 
 <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="30px"/>
