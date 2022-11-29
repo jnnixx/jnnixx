@@ -1,4 +1,4 @@
-### Oi! eu sou a Jenni, uma futura desenvolvedora Full Stack 😎
+### Oi! eu sou a Jenni😎
 ##
 <div>
   <a href="https://github.com/jnnixx">
