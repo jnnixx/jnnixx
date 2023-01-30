@@ -27,4 +27,4 @@
 
 ![snake gif](https://github.com/jnnixx/jnnixx/blob/output/github-contribution-grid-snake.svg)
 
-*Durante as horas vagas eu jogo Valorant!* 🎮
+
