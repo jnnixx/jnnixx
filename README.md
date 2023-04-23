@@ -1,4 +1,4 @@
-### Oi! eu sou a Jenni😎
+### Oi! eu sou a Jennifer!
 ##
 <div>
   <a href="https://github.com/jnnixx">
